@@ -1,3 +1,6 @@
+#his is my first React App. There may be mistakes, but man learns only by making mistakes.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
