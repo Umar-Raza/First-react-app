@@ -1,4 +1,4 @@
-#his is my first React App. There may be mistakes, but man learns only by making mistakes.
+#This is my first React App. There may be mistakes, but man learns only by making mistakes.
 
 
 # Getting Started with Create React App
